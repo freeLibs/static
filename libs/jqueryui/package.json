@@ -1,0 +1,13 @@
+{
+    "name": "jqueryui",
+    "version": "1.11.4",
+    "description": "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. ",
+    "homepage": "http://jquerymobile.com/",
+    "keywords": ["jqueryui","js","css"],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/jquery/jqueryui.com.git"
+        }
+    ]
+}
