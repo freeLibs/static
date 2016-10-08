@@ -4,11 +4,11 @@
     "version": "1.4.5",
     "description": "jQuery Mobile is a HTML5-based user interface system designed to make responsive web sites and apps that are accessible on all smartphone, tablet and desktop devices.",
     "homepage": "http://jquerymobile.com/",
-    "keywords": ["jquery", "mobile","jquerymobile"],
+    "keywords": ["jquerymobile","js","css"],
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/jquery/api.jquerymobile.com.git"
+            "url": "https://github.com/jquery/jquerymobile.com.git"
         }
     ]
 }
